@@ -1,0 +1,29 @@
+
+* {
+    margin: 10px;
+    padding: 10px;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+
+
+.btn {
+    color: tomato;
+}
+
+.btn:hover {
+    color: greenyellow;
+}
+
+.btn:before {
+    color: yellow;
+}
+
+.btn:after {
+    color: green;
+}
+
