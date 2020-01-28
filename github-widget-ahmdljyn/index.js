@@ -1,4 +1,4 @@
-
+/*
 var click = document.querySelector(".btn")
 var btnClicking= click.addEventListener("click")
 const user = async function userFetching(username) {
@@ -22,3 +22,4 @@ const user = async function userFetching(username) {
           });     
 }
 user("ahmdljyn");
+*/
